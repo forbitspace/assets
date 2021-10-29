@@ -1,0 +1,23 @@
+{
+    "name": "forbitspaceBar",
+    "website": "https://forbitspace.fi",
+    "source_code": "https://github.com/forbitspace",
+    "description": "xforbitspace is a trading fee accruing token. 0.05% of the exchange trade fees on forbitspace are awarded to holders of the xforbitspace token",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/forbitspace",
+            "handle": "forbitspace"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/sqhXAqc"
+        }
+    ],
+    "explorer": "https://etherscan.io/token/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+    "type": "ERC20",
+    "symbol": "xforbitspace",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272"
+}

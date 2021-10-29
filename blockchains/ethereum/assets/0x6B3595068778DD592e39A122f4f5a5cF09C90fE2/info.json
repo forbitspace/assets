@@ -1,0 +1,12 @@
+{
+    "name": "forbitspace",
+    "website": "https://forbitspace.fi",
+    "description": "forbitspace claims to be an evolution of #Uniswap with $forbitspace tokenomics.",
+    "explorer": "https://etherscan.io/token/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "forbitspace",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2"
+}
